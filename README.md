@@ -5,23 +5,23 @@ A full supermarket or retail shop point of sales system to manage your slaes, in
 
 <H2>FEATURES </h2> <br>
 Sales <br>
-<img src="sales.png">
+<img src="sales.png" alt="Sales">
 purchases <br>
-<img src="purchase.png">
+<img src="purchase.png" alt="Purchases">
 expenses <br>
 Debtors <br>
 SMS <br>
 Minimum Qty Alert <br>
-<img src="minimum.png"> 
+<img src="minimum.png" alt="Minimum Stock Alert"> 
 Debtors due date Alert <br>
 Category and Brand registration <br>
 Product Registration <br>
 Minimum Amount for receipt print out setup <br>
 Sales, Purchases, Expenses, Debtors reports (With filters) <br>
-<img src="sales report.png">
+<img src="sales report.png" alt="Sales Report">
 <img src="i&e.png">
 Inventory <br>
-<img src="inventory.png">
+<img src="inventory.png" alt="Inventory">
 <br>
 <br>
 view few screenshots from the files
