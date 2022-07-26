@@ -16,6 +16,8 @@ Product Registration <br>
 Minimum Amount for receipt print out setup <br>
 Sales, Purchases, Expenses, Debtors reports (With filters) <br>
 Inventory <br>
-
+<br>
+<br>
+view screenshots from the files
 
 CONTACT: +233553852241 / cwaysimorison@outlook.com
