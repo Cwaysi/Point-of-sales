@@ -10,6 +10,7 @@ expenses <br>
 Debtors <br>
 SMS <br>
 Minimum Qty Alert <br>
+<img src="minimum.png"> <br>
 Debtors due date Alert <br>
 Category and Brand registration <br>
 Product Registration <br>
